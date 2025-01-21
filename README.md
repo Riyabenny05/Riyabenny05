@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riyabenny05
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Ai and ML
-- (^) Ask me about HTML,CSS,Java,Python,C
+- (^) Ask me about HTML,CSS,Java,Python,C,Ai
 - "?" How to reach me:riyabenny2005@gmail.com
 - :) Fun fact i'm who loves turning coffee into code and ideas into reality!
 
